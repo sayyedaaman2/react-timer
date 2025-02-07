@@ -1,2 +1,3 @@
-# react-timer
-React Practice 
+# React Timer
+
+## Practice React
