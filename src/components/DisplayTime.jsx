@@ -1,7 +1,7 @@
-export default function DisplayTime(){
+export default function DisplayTime({value}){
     return(
-        <div className=" text-7xl ">
-            05.00
+        <div className=" text-6xl lg:text-7xl ">
+            {value}
         </div>
     )
 }
